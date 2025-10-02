@@ -13,8 +13,8 @@
   </a>
 </p>
 
-🔭 I'm currently working on **GadgetStore**  
-🌱 I'm currently learning **Django, DRF**  
+🔭 I'm currently working on **Eshop API**  
+🌱 I'm currently learning **Numpy, DRF, Database**  
 💬 Ask me about **Python, Django**  
 📫 How to reach me: **alirezamoradiuni@gmail.com**  
 
