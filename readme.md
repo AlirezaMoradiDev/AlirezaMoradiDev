@@ -22,23 +22,26 @@
 
 ### Programming Languages
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/Python-007396.svg?logo=python&logoColor=black)
+
 
 ### Web Development
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat-square&logo=django&logoColor=black)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=black)
+![SQLite](https://img.shields.io/badge/-PostgreSQL-003B57?style=flat-square&logo=postgresql&logoColor=black)
 
 ### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![postman](https://img.shields.io/badge/-postman-0A9EDC?style=flat-square&logo=postman&logoColor=black)
 
 ### Testing
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=black)
 
 ## 📈 GitHub Stats
 
