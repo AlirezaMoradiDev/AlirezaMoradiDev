@@ -1,79 +1,22 @@
-<h1 align="center">Hi there, I'm Alireza Moradi 👋</h1>
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F70000&width=435&lines=NullReferenceException;I'm+just+a+programmer.;Are+you+a+one+or+a+zero%3F;Rubber+Duck+Debugging;It's+not+a+bug%2C+it's+a+feature." alt="Typing Animation" />
-</div>
-
-<p align="left">
-  <a href="https://github.com/AlirezaMoradiDev">
-    <img src="https://komarev.com/ghpvc/?username=AlirezaMoradiDev&label=Profile%20Views&color=red&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/AlirezaMoradiDev?tab=followers">
-    <img src="https://img.shields.io/github/followers/AlirezaMoradiDev.svg?style=flat&color=red&label=Followers" alt="GitHub Followers" />
-  </a>
-</p>
-
-🔭 I'm currently working on **Eshop API**  
-🌱 I'm currently learning **Numpy, DRF, Database**  
-💬 Ask me about **Python, Django**  
-📫 How to reach me: **alirezamoradiuni@gmail.com**  
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
-![Java](https://custom-icon-badges.demolab.com/badge/Python-007396.svg?logo=python&logoColor=black)
+# 💫 About Me:
+🔭 I’m currently working on building a Eshop API<br>🤝 I’m looking for help with DRF<br>🌱 I’m currently learning DRF, numpy, Docker<br>💬 Ask me about Web, python, Database<br>
 
 
-### Web Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat-square&logo=django&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=black)
-![SQLite](https://img.shields.io/badge/-PostgreSQL-003B57?style=flat-square&logo=postgresql&logoColor=black)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![postman](https://img.shields.io/badge/-postman-0A9EDC?style=flat-square&logo=postman&logoColor=black)
-
-### Testing
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=black)
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaMoradiDev&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=true" alt="Alireza's GitHub Stats" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-moradi-128979353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alirezamoradiuni) [![leetcode](https://img.shields.io/badge/LeetCode-D14836?logo=leetcode&logoColor=white)](https://leetcode.com/u/Alireza200411/) [![Roadmap](https://img.shields.io/badge/roadmap-D14836?logo=roadmap&logoColor=white)](https://roadmap.sh/u/alirezamoradi)
 
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AlirezaMoradiDev&theme=dark&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
-</p>
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlirezaMoradiDev&theme=onestar&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commit,Followers,Repositories,PullRequest" alt="GitHub Trophies" />
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlirezaMoradiDev&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlirezaMoradiDev&theme=shadow_blue&hide_border=true)<br/>
 
 
-## 🤝 Let's Connect
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<p align="center">
-  <a href="https://www.hackerrank.com/alirezamoradi" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://linkedin.com/in/alireza-moradi-128979353" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alirezamoradiuni@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AlirezaMoradiDev&icon=3&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
