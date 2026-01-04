@@ -12,6 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=AlirezaMoradiDev&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AlirezaMoradiDev&theme=shadow_blue&hide_border=true)<br/>
 
+## Problem Solving Activity
+![LeetCode state](https://stats.justsong.cn/api/leetcode?username=Alireza200411&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
